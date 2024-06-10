@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dilanya
-- 👀 I’m interested in web developing, AI and ML
-- 🌱 I’m an undergrad
+- 👀 I’m interested in Developing, AI and ML
+- 🌱 I’m a Software Engineer Intern
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... dilanyasamarakoon@gmail.com 
 
